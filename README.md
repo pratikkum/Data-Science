@@ -1,11 +1,4 @@
-# Data-Science
-Ideas and Projects in Data Science
-
-Hello All,
-
-I have created a project using QGIS for one my subjects in first semester.
-
-Subject - Industrial Pattern in Ireland
+Industrial Pattern in Ireland using QGIS.
 
 Tools used - QGIS , PostGIS and Leaflet
 
